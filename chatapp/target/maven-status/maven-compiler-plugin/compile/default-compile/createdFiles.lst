@@ -1,0 +1,8 @@
+com\chatapp\SingleProcessCommunication\Player.class
+com\chatapp\SingleProcessCommunication\SingleProcessCommunication.class
+com\chatapp\MultiProcessCommunication\MultiProcessCommunication.class
+com\chatapp\SingleProcessCommunication\Message.class
+com\chatapp\MultiProcessCommunication\MessageHandler.class
+com\chatapp\MultiProcessCommunication\NetworkManager.class
+com\chatapp\SingleProcessCommunication\PlayerThread.class
+com\chatapp\MultiProcessCommunication\Player.class
